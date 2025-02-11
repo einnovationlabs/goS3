@@ -26,7 +26,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/your-username/goS3"
+	"github.com/einnovationlabs/goS3"
 )
 
 func main() {
